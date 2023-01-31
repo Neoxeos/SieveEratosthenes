@@ -12,9 +12,9 @@ def PrimeCalculator(number):
   require : number of type int
   
   number: upper bound for which we wish to calculate primes such that
-  #primes <= number
+  #primes < number
 
-  returns : # primes of type int
+  returns : # primes of type list
   '''
 
   #edge cases
